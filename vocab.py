@@ -1,8 +1,4 @@
-"""
-Written by KrishPro @ KP
 
-filename: `vocab.py`
-"""
 
 import argparse
 import pandas as pd
