@@ -5,7 +5,7 @@ The Sentiment Analysis App is a robust and user-friendly application designed to
 
 The app is suitable for a variety of use cases, including customer feedback analysis, social media sentiment tracking, and product review evaluation. By automating the sentiment analysis process, it enables businesses and individuals to gain actionable insights and make data-driven decisions more efficiently.
 
-**Features **
+**Features**
 -datasets such as amazons alexa reviews, yelp reviews
 -yelp reviews were split into training and testing sets
 -some exploration and cleaning was done on the data
